@@ -1,0 +1,2 @@
+# BluesCraft
+Minecraft sunucusu
